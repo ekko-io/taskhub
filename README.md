@@ -55,4 +55,4 @@ REST requests to trigger execution.
 
 ## Diagrams
 
-![API Diagram](https://raw.githubusercontent.com/ekko-io/taskhub/master/images/api.svg)
+![API Diagram](https://rawgithub.com/ekko-io/taskhub/master/images/api.svg)
