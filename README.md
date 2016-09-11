@@ -56,3 +56,5 @@ REST requests to trigger execution.
 ## Diagrams
 
 ![API Diagram](https://rawgithub.com/ekko-io/taskhub/master/images/api.svg)
+![Executor 1 Diagram](https://rawgithub.com/ekko-io/taskhub/master/images/executor1.svg)
+![Executor 2 Diagram](https://rawgithub.com/ekko-io/taskhub/master/images/executor2.svg)
